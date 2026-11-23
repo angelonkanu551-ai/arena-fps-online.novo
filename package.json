@@ -1,0 +1,8 @@
+{
+  "name": "arena-fps-online",
+  "version": "0.1.0",
+  "description": "ARENA FPS - teste multijogador (sem dependencias)",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
